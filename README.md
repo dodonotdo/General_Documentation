@@ -143,15 +143,14 @@ exit (or) \q
 |3.|USE [db-name];|Enter into the specified database.|
 |4.|DROP DATABASE [db_name];|To delete the specified database.|
 |5.|CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';| Create a new user|
-|6.|GRANT permission_type ON database.table TO 'username'@'localhost';| to grant privileges to a user account |
-|7.|GRANT INSERT ON * . * TO 'username'@'localhost';|to grant insert privileges to a MySQL user|
+|6.|GRANT permission_type ON database.table TO 'username'@'localhost';| To grant privileges to a user account |
+|7.|GRANT INSERT ON * . * TO 'username'@'localhost';|To grant insert privileges to a MySQL user|
 |8.|SHOW GRANTS FOR username;|To display all the current privileges held by a user|
 |9.|GRANT ALL PRIVILEGES ON * . * TO 'database_user'@'localhost';|To grant all privileges to MySQL User on all databases|
 |10.|GRANT ALL PRIVILEGES ON database_name.* TO 'database_user'@'localhost';|To grant all privileges to a user account on a specific database|
 |11.|GRANT ALL PRIVILEGES ON database_name.table_name TO 'database_user'@'localhost';|To grant all privileges to a user account over a specific table from a database |
 |12.|REVOKE permission_type ON database.table TO 'username'@'localhost';|Revoke Privileges MySQL User Account|
 |13.|DROP USER 'username'@'localhost';|Remove an Entire User Account|
-
 |14.|TRUNCATE TABLE table_name;|It is used to delete the data inside a table.|
 |15.|SHOW TABLES; | List out all the tables in specified database.|
 |16.|RENAME old_table TO new_table;| To rename the name of the table|
