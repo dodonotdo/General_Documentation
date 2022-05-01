@@ -175,7 +175,7 @@ For more details visit this page - https://www.javatpoint.com/mysql-tutorial
  ![image](https://user-images.githubusercontent.com/91359308/166138918-cacf2890-a7e8-4a1c-ad89-227c7a48518b.png)
 
  
- 2. Enter into mysql with out password:
+ 2. Enter into mysql without password:
 
  ```bash
  sudo mysql
