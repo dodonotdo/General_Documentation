@@ -190,7 +190,7 @@ For more details visit this page - https://www.javatpoint.com/mysql-tutorial
 
 ![image](https://user-images.githubusercontent.com/91359308/166139074-bcb64de1-9a0c-44c3-ae4c-9eb959b404b9.png)
 
-5. Login to mysql using new currently reset password:
+5. Login to mysql using currently reseted password:
 
 ![image](https://user-images.githubusercontent.com/91359308/166139117-42c7ebba-d76f-4834-a715-0a45f3fe9eb2.png)
 
