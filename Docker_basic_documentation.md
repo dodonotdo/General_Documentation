@@ -2,7 +2,7 @@
 
 **Pull a image from docker hub**
 ```bash
-sudo docker pull (image_id)
+sudo docker pull (image_name)
 ```
 **To show the image details**
 ```bash
